@@ -9,7 +9,7 @@ The project includes data cleaning, exploratory data analysis, visualization, Po
 ## 🌐 Live Demo
 
 🚀 **Live Streamlit Dashboard:**  
-https://food-delivery-price-inflation.streamlit.app/
+Click here to  use the App(https://food-delivery-price-inflation.streamlit.app/)
 
 ---
 
