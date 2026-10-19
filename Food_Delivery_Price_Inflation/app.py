@@ -272,3 +272,31 @@ to understand how pricing, discounts and customer perception interact.
 )
 
 st.caption("Food Delivery Price Inflation | Data Analytics Portfolio Project")
+
+
+st.markdown("---")
+st.markdown(
+    """
+    <div style="text-align:center; padding:20px 0;">
+        <p style="font-size:13px; color:gray;">
+            FOOD DELIVERY PRICE INFLATION
+        </p>
+        <p style="font-size:16px; font-weight:600;">
+            Developed &amp; Deployed by
+            <a href="https://github.com/Guna-091105"
+               target="_blank"
+               style="text-decoration:none;">
+                @guna-091105
+            </a>
+        </p>
+        <p style="font-size:13px; color:gray;">
+            Data Analytics | Python | Streamlit
+        </p>
+        <p style="font-size:12px; color:gray;">
+            © 2026 Food Delivery Price Inflation
+        </p>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
+
